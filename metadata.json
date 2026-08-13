@@ -1,0 +1,10 @@
+{
+  "name": "ZATCA E-Invoice System",
+  "description": "ZATCA Phase 1 & Phase 2 compliant e-invoicing solution with QR code scanning, TLV decoder/encoder, calculation engine, payment tracking, and analytics dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
